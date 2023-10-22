@@ -32,3 +32,6 @@ Most importantly, once the modeling process is complete, we need you to communic
 To build the foundation for this machine learning use case, they want to implement a first version of the algorithm into production. In the current state, as a Python notebook, this is not suitable to productionize a machine learning model. 
 
 Therefore, as the Data Scientist that created this algorithm, it is your job to prepare a Python module that contains code to train a model and output the performance metrics when the file is run.</p>
+
+
+![Screenshot 2023-10-22 162610](https://github.com/ROHITH-MORA/Cognizant-AI-Virtual-Experience-Program/assets/107678228/02bd513c-3ead-4cb7-8943-c730acc7801f)
